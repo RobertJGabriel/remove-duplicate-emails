@@ -17,8 +17,7 @@ var removedDuplicate = duplicateEmails.remove('email@email.com'); // Returns ruA
 ```
 ## License
 
-MIT © [Robert James Gabriel](https://www.robertgabriel.ninja)
-
+MIT © [Robert James Gabriel](https://www.robertgabriel.ninja),team member at [Keyring](https://joinkeyring.com)
 
 [npm-image]: https://badge.fury.io/js/remove-duplicate-emails.svg
 [npm-url]: https://npmjs.org/package/remove-duplicate-emails
