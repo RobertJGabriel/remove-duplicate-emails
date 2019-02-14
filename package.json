@@ -1,6 +1,6 @@
 {
   "name": "remove-duplicate-emails",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node module that removes +1 trick at the end of emails on sign up. To stop duplicate accounts.",
   "homepage": "",
   "author": {
